@@ -18,7 +18,7 @@ Olá sou Allyson, sou um desenvolvedor que vem buscando aprimorar meus conhecime
 > Estudante na IGTI;
 > Estudante na Rockseat;
 
-###Conhecimentos em linguagems de programação:
+### Conhecimentos em linguagems de programação:
 - HTML5;
 - CSS3;
 - Javascript ES6;
@@ -31,7 +31,7 @@ Olá sou Allyson, sou um desenvolvedor que vem buscando aprimorar meus conhecime
 - Java;
 - TDD e DDD;
 
-###About
+### About
 
 > Gosto de estudar, ler livros, ver filmes , e desenvolver minhas capacidades pelo que gosto de fazer.
 
