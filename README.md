@@ -170,7 +170,7 @@ Olá sou Allyson, sou um desenvolvedor que vem buscando aprimorar meus conhecime
       </td>
       <td width="20%" align="center">
       <!--STUDENT-->
-        <img height="50px" src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png">
+        <img height="50px" src="https://softwareengineeringdaily.com/wp-content/uploads/2019/10/FreeCodeCamp_logo.png">
       <br/>
       <span>FCC</span>
       </td>
