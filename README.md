@@ -13,33 +13,34 @@
 <p>
 Olá sou<i> Allyson </i>, sou um desenvolvedor jr que vem buscando aprimorar meus conhecimentos como     <b>Developer Full Stack .</b> 
 </p>
-### Technology Stack 
+<div>
+  <img align="right" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+  <img align="right" alt="HTML 5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img align="right" alt="CSS" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img align="right" alt="JS" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img align="right" alt="TYPESCRIPT" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img align="right" alt="REACT JS" width="30px" src="https://img.icons8.com/nolan/64/react-native.png"/>
+  <img align="right" alt="BOOTSTRAP" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  <h4 align="left">FRONT END</h4>
+</div>
+<div>
+  <img align="right" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img align="right" alt="Spring boot" width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="right" alt="Azure SQL Server" width="30px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+  <img align="right" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img align="right" alt="Intelij IDEA" width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+  <img align="right" alt="VSCODE" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+  <img align="right" alt="Postman" width="30px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+  <img align="right" alt="Oracle" width="30px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+  <h4 align="LEFT">BACK END</h4>
+</div>
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Scala" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-
-<br />
-<br />
-
-
-### Recent Acitivies ✨
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allysonubius&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Allysonubius&theme=radical&show_icons=true" /></td>
-  </tr>  
+      <td><img width="4500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allysonubius&hide=html&layout=compact&theme=radical" /></td>
+    <td><img width="4500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Allysonubius&theme=radical&show_icons=true" /></td>
+  </tr> 
 </table>
 </center>
 
