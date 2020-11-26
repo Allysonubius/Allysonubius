@@ -9,10 +9,11 @@
   <img height="420" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
 </div>
 
-
+<br/>
 <p>
 Olá sou<i> Allyson </i>, sou um desenvolvedor jr que vem buscando aprimorar meus conhecimentos como     <b>Developer Full Stack .</b> 
 </p>
+<br/>
 <div>
   <img align="right" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
   <img align="right" alt="HTML 5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -34,7 +35,7 @@ Olá sou<i> Allyson </i>, sou um desenvolvedor jr que vem buscando aprimorar meu
   <img align="right" alt="Oracle" width="30px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
   <h4 align="LEFT">BACK END</h4>
 </div>
-
+<br/>
 <center>
 <table>
   <tr>
@@ -43,7 +44,7 @@ Olá sou<i> Allyson </i>, sou um desenvolvedor jr que vem buscando aprimorar meu
   </tr> 
 </table>
 </center>
-
+<br/>
 
 ### Cursos e Certificados:
 
