@@ -1,4 +1,4 @@
-[![Linkedin: Allyson de Oliveira](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/eliezerzarpelao//)]
+[![Linkedin: Allyson de Oliveira](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/eliezerzarpelao//)
 [![Gmail: Allyson](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
 [![Whatsapp: Allyson](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=61991942160&text=Olá!)](https://api.whatsapp.com/send?phone=61991942160&text=Olá!)
 [![Telegram: Allyson ](https://img.shields.io/badge/Telegram-@Allysonoliveirabrandao-blue?style=for-the-badge&logo=Telegram)](https://t.me/allysonoliveirabrandao)
