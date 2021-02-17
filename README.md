@@ -1,10 +1,12 @@
-[![Linkedin: Allyson de Oliveira](https://img.shields.io/badge/-allysonoliveira-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/allyson-de-oliveira/)
-[![Gmail: Allyson](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
-[![Whatsapp: Allyson](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=61991942160&text=Olá!)](https://api.whatsapp.com/send?phone=61991942160&text=Olá!)
-[![Telegram: Allyson ](https://img.shields.io/badge/Telegram-@Allysonoliveirabrandao-blue)](https://t.me/allysonoliveirabrandao)
-[![GitHub Allysonubius](https://img.shields.io/github/followers/allysonubius?label=follow&style=social)](https://github.com/Allysonubius)
-[![Github Allysonubius](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)](https://github.com/Allysonubius)
-[![Github Allysonubius](https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff)](https://github.com/Allysonubius)
+[![Linkedin: Allyson de Oliveira](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/eliezerzarpelao//)]
+[![Gmail: Allyson](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
+[![Whatsapp: Allyson](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=61991942160&text=Olá!)](https://api.whatsapp.com/send?phone=61991942160&text=Olá!)
+[![Telegram: Allyson ](https://img.shields.io/badge/Telegram-@Allysonoliveirabrandao-blue?style=for-the-badge&logo=Telegram)](https://t.me/allysonoliveirabrandao)
+[![GitHub Allysonubius](https://img.shields.io/github/followers/allysonubius?style=for-the-badge&logo=Github)](https://github.com/Allysonubius)
+[![Instagram Allysonubius](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allysonubius/)](https://www.instagram.com/allysonubius/)
+
+
+
 
 <div align="center">
   <img height="420" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
@@ -39,6 +41,10 @@ Olá sou<i> Allyson</i>, sou um developer CLOUD que vem buscando aprimorar meus 
 </div>
 <br/>
 
+[![Github Allysonubius](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg?style=for-the-badge&logo=Test)](https://github.com/Allysonubius)
+[![Github Allysonubius](https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff)](https://github.com/Allysonubius)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=Allysonubius)
+
 #### CURSOS E CERTIFICADOS
 
   <div>
@@ -51,3 +57,4 @@ Olá sou<i> Allyson</i>, sou um developer CLOUD que vem buscando aprimorar meus 
 
 > Gosto de estudar, ler livros, ver filmes , e desenvolver minhas capacidades pelo que gosto de fazer.
 ⭐️ Criado por [Allyson Oliveira](https://github.com/Allysonubius)
+
