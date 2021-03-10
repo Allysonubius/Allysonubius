@@ -33,6 +33,7 @@
           <span>Scrum Fundamentals Certified</span>
         </a>
       <br>
+      <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG9_uP8f-kpiw/company-logo_100_100/0/1519900745590?e=1623283200&v=beta&t=LNMhAiCbm2MJqvXBmst7wD2TBNpzFX9eF_HEiOJb0rg">
 		  <br>
         </td>
