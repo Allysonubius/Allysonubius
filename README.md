@@ -58,7 +58,7 @@
           <span>Global Fullstack Developer</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/545494e1-76d2-4dfd-9cfd-d6456b418223.png">
+          <img height="64px" src="img/Global Fullstack Developer.png">
 		  <br>
         </td>
         <td width="25%" align="center">
@@ -66,7 +66,7 @@
           <span>Become Remote</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/ee2250cf-53eb-476b-9314-56ff2fab42f3.png">
+          <img height="64px" src="img/Become Remote.png">
 		  <br>
         </td>
 	      <td width="25%" align="center">
@@ -74,7 +74,7 @@
           <span>Desenvolvedor Front-end Angular</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/4a9e41ba-c33e-4f0d-b12b-b9422a9a38b3.png">
+          <img height="64px" src="img/Desenvolvedor Front-end Angular.png">
 		  <br>
         </td>
         <td width="25%" align="center">
@@ -82,7 +82,7 @@
           <span>Desenvolvedor Front-end ReactJS</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/347dcb83-49fb-401f-8d52-c8820e35cb2c.png">
+          <img height="64px" src="img/Desenvolvedor Front-end ReactJS.png">
 		  <br>
         </td>
       </tr>
@@ -92,7 +92,7 @@
           <span>SPTech Desenvolvimento Fullstack</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/f8142d66-d85a-4f1e-9304-2a876bccbb6e.png">
+          <img height="64px" src="img/SPTech Desenvolvimento Fullstack.png">
 		  <br>
         </td>
         <td width="25%" align="center">
@@ -100,7 +100,7 @@
           <span>Fullstack Developer Banco Carrefour</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/72c30eb5-5f73-4d68-9912-196144db7c86.png">
+          <img height="64px" src="img/Fullstack Developer Banco Carrefour.png">
 		  <br>
         </td>
 	      <td width="25%" align="center">
@@ -108,7 +108,7 @@
           <span>Especialista em Inovação Digital</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/659995cc-25c0-46ec-806a-fe7c73512dfb.png">
+          <img height="64px" src="img/Especialista em Inovação Digital.png">
 		  <br>
         </td>
         <td width="25%" align="center">
