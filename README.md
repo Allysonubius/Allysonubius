@@ -60,6 +60,7 @@
           <span>Global Fullstack Developer</span>
         </a>
       <br>
+      <br>
           <img height="64px" src="img/Global Fullstack Developer.png">
 		  <br>
         </td>
