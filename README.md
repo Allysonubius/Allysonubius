@@ -48,7 +48,7 @@
           <span>Cloud Computing & Serverless</span>
         </a>
       <br>
-          <img height="64px" src="https://hermes.digitalinnovation.one/tracks/01066899-6be2-4c56-a196-ca2ec8ee5b08.png">
+          <img height="64px" src="img/Cloud Computing & Serverless.png">
 		  <br>
         </td>
       </tr>
