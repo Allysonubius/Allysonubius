@@ -68,6 +68,7 @@
           <span>Become Remote</span>
         </a>
       <br>
+      <br>
           <img height="64px" src="img/Become Remote.png">
 		  <br>
         </td>
