@@ -24,6 +24,7 @@
           <span>Angular 9 Essencial</span>
         </a>
       <br>
+      <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C560BAQEqmVRp2Q2Jbg/company-logo_100_100/0/1554852395434?e=1623283200&v=beta&t=-72rOiGidaqbjlcIUsMqWFs_yvBsJPEP8t7spG4tF8s">
 		  <br>
         </td>
@@ -125,6 +126,7 @@
         <a href="https://trello.com/c/K97RCj06/52-microsoft-digital-literacy">
           <span>Microsoft® Digital Literacy</span>
         </a>
+      <br>
       <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C560BAQH8hBKOFXvqag/company-logo_100_100/0/1609783110976?e=1623283200&v=beta&t=bWg-qUArnWalz-LNcQPnXUXd0hWZzzlGVFd-AJ6UTAs">
 		  <br>
