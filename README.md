@@ -116,8 +116,8 @@
 		  <br>
         </td>
         <td width="25%" align="center">
-        <a href="https://certificates.digitalinnovation.one/126D952C">
-          <span>Desenvolvedor Front-end ReactJS</span>
+        <a href="https://trello.com/c/9Gfjj67m">
+          <span>DevOps Essentials</span>
         </a>
       <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGHggs8gOn10g/company-logo_100_100/0/1519902151244?e=1623283200&v=beta&t=NEfAJNgKUTnzHGamToK-0Rr8mIr5tccZO_kVKDStQa4">
