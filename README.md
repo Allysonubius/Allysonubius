@@ -142,6 +142,13 @@ Ferramentas Corporativas do Google</span>
       <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1623283200&v=beta&t=U7vhPJz0-Bh5qU2a-IymLBn0zoQ1LJbEv0y4jwUp4XU">
 		  <br>
+      <td width="25%" align="center">
+        <a href="https://trello.com/c/yGpy0jod">
+          <span>Fundamentals of digital marketing</span>
+        </a>
+      <br>
+          <img height="64px" src="img/google.jfif">
+		  <br>
       </tr>
     </tbody>
   </table>
