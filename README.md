@@ -146,6 +146,7 @@ Ferramentas Corporativas do Google</span>
         <a href="https://trello.com/c/yGpy0jod">
           <span>Fundamentals of digital marketing</span>
         </a>
+        <br>
       <br>
           <img height="64px" src="img/google.jfif">
 		  <br>
