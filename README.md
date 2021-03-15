@@ -120,6 +120,7 @@
           <span>DevOps Essentials</span>
         </a>
       <br>
+      <br>
           <img height="64px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGHggs8gOn10g/company-logo_100_100/0/1519902151244?e=1623283200&v=beta&t=NEfAJNgKUTnzHGamToK-0Rr8mIr5tccZO_kVKDStQa4">
 		  <br>
         </td>
