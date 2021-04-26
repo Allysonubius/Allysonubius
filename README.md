@@ -15,9 +15,9 @@
 </div>
 <br/>
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
-  <img width=600 src="https://github-readme-stats.vercel.app/api?username=Allysonubius&theme=dark&show_icons=true&hide_border=true&bg_color=00008B" />
+  <img width=600 src="https://github-readme-stats.vercel.app/api?username=Allysonubius&bg_color=30,e96443,904e95&title_color=fff&text_color=fffB" />
 
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Allysonubius&show_icons=true&theme=dark&hide_border=true&cache_seconds=1200&locale=en&bg_color=000000" alt="RafaAllysonubius" />
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Allysonubius&bg_color=30,e96443,904e95&title_color=fff&text_color=fffB" alt="Allysonubius" />
 </p>
 
 <br>
