@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Telegram Allysonubius](https://img.shields.io/badge/-Telegram-E6E6FA?style=for-the-badge&labelColor=1E90FF&logo=telegram&logoColor=white&link=https://t.me/allysonoliveirabrandao)](https://t.me/allysonoliveirabrandao)
+[![Telegram Allysonubius](https://img.shields.io/badge/-Telegram-E6E6FA?style=for-the-badge&labelColor=B0C4DE&logo=telegram&logoColor=white&link=https://t.me/allysonoliveirabrandao)](https://t.me/allysonoliveirabrandao)
 [![Linkedin Allysonubius](https://img.shields.io/badge/-Linkedin-E6E6FA?style=for-the-badge&labelColor=1E90FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)
 [![Gmail Allysonubius](https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
 [![Instagram Allysonubius](https://img.shields.io/badge/-Instagram-E6E6FA?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allysonubius/)](https://www.instagram.com/allysonubius/)
