@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Linkedin: Allyson de Oliveira](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/eliezerzarpelao//)
-[![Gmail: Allyson](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
-[![Whatsapp: Allyson](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=61991942160&text=Olá!)](https://api.whatsapp.com/send?phone=61991942160&text=Olá!)
-[![Telegram: Allyson ](https://img.shields.io/badge/Telegram-@Allysonoliveirabrandao-blue?style=for-the-badge&logo=Telegram)](https://t.me/allysonoliveirabrandao)
-[![Instagram Allysonubius](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allysonubius/)](https://www.instagram.com/allysonubius/)
+[![Telegram Allysonubius](https://img.shields.io/badge/-Telegram-E6E6FA?style=for-the-badge&labelColor=1E90FF&logo=telegram&logoColor=white&link=https://t.me/allysonoliveirabrandao)](https://t.me/allysonoliveirabrandao)
+[![Linkedin Allysonubius](https://img.shields.io/badge/-Linkedin-E6E6FA?style=for-the-badge&labelColor=1E90FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)
+[![Gmail Allysonubius](https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
+[![Instagram Allysonubius](https://img.shields.io/badge/-Instagram-E6E6FA?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allysonubius/)](https://www.instagram.com/allysonubius/)
+[![HackRank Allysonubius](https://img.shields.io/badge/-HackerRank-E6E6FA?style=for-the-badge&labelColor=808080&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/allysomoliveira7?hr_r=1)](https://www.hackerrank.com/allysomoliveira7?hr_r=1)
 </div>
 
 
 
 <div align="center">
-  <img height="420" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
+  <img height="480" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
 </div>
 
 <br>
