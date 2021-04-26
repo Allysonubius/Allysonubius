@@ -4,7 +4,7 @@
 [![Linkedin Allysonubius](https://img.shields.io/badge/-Linkedin-E6E6FA?style=for-the-badge&labelColor=1E90FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)](https://www.linkedin.com/in/allyson-de-oliveira-6b3596164/)
 [![Gmail Allysonubius](https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:allysontrabalho7@gmail.com)](mailto:allysontrabalho7@gmail.com)
 [![Instagram Allysonubius](https://img.shields.io/badge/-Instagram-E6E6FA?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allysonubius/)](https://www.instagram.com/allysonubius/)
-[![HackRank Allysonubius](https://img.shields.io/badge/-HackerRank-E6E6FA?style=for-the-badge&labelColor=808080&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/allysomoliveira7?hr_r=1)](https://www.hackerrank.com/allysomoliveira7?hr_r=1)
+[![HackRank Allysonubius](https://img.shields.io/badge/-HackerRank-E6E6FA?style=for-the-badge&labelColor=808080&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/allysomoliveira7?hr_r=1_blank)](https://www.hackerrank.com/allysomoliveira7?hr_r=1)
 </div>
 
 <div align="center">
