@@ -20,7 +20,6 @@
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Allysonubius&bg_color=30,e96443,904e95&title_color=fff&text_color=fffB" alt="Allysonubius" />
 </p>
 
-<br>
 
 <div align="center">
 
