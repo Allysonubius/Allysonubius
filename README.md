@@ -7,8 +7,6 @@
 [![HackRank Allysonubius](https://img.shields.io/badge/-HackerRank-E6E6FA?style=for-the-badge&labelColor=808080&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/allysomoliveira7?hr_r=1)](https://www.hackerrank.com/allysomoliveira7?hr_r=1)
 </div>
 
-
-
 <div align="center">
   <img height="480" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
 </div>
@@ -21,16 +19,10 @@
 
 <br>
 
-
-
 <div align="center">
 
-
-
 ### Courses and certificates
-<div>
+
   <p>See the trello where I organize all my studies in 
   <a target="_blank" href="https://trello.com/b/5w5QtwG6/cursos-e-certificados"> courses and certificates</a>.</p>
 </div>
-
-
