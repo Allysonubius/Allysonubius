@@ -8,11 +8,10 @@
 [![Microsoft Allysonubius](https://img.shields.io/badge/-microsoft-E6E6FA?style=for-the-badge&logo=microsoft&logoColor=00BFFF&link=https://www.hackerrank.com/allysomoliveira7?hr_r=1)](https://www.hackerrank.com/allysomoliveira7?hr_r=1)
 </div>
 
-
-
-
 <div align="center">
   <img height="480" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
+  
+  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=Allysonubius)
 </div>
 <br/>
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
