@@ -10,6 +10,7 @@
 
 <div align="center">
   <img height="480" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
+  <br/>
   
   ![Visitas](https://visitor-badge.glitch.me/badge?page_id=Allysonubius)
 </div>
