@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### Courses and certificates
+### Courses and certificates.
 
   <p>See the trello where I organize all my studies in 
   <a target="_blank" href="https://trello.com/b/5w5QtwG6/cursos-e-certificados"> courses and certificates</a>.</p>
