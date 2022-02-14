@@ -9,18 +9,35 @@
 </div>
 
 <div align="center">
-  <img height="480" src="https://media1.tenor.com/images/599e2459adce5e829dfa08b8b9d45add/tenor.gif?itemid=14038179">
+  <img height="480" src="./img/hello.svg">
   <br/>  
 </div>
 <br/>
 <div align="center">
+
+
+I'm Front-End Developer and I'm quite good at:
+  
+![Java](https://img.shields.io/badge/Java8-E34F26?style=for-the-badge&logo=Java&logoColor=white)
+&nbsp;
+![Angular9](https://img.shields.io/badge/Angular9-1572B6?style=for-the-badge&logo=angular&logoColor=white)
+&nbsp;
+![TS](https://img.shields.io/badge/TS-CC6699?style=for-the-badge&logo=typescript&logoColor=white)
+&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0769AD?style=for-the-badge&logo=oracle&logoColor=white)
+
+&nbsp;
   
   ![Visitas](https://visitor-badge.glitch.me/badge?page_id=Allysonubius)
 </div>
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img width=600 src="https://github-readme-stats.vercel.app/api?username=Allysonubius&bg_color=30,e96443,904e95&title_color=fff&text_color=fffB" />
 
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Allysonubius&bg_color=30,e96443,904e95&title_color=fff&text_color=fffB" alt="Allysonubius" />
+  
 </p>
 
 
