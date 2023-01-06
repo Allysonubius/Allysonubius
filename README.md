@@ -16,7 +16,7 @@
 <div align="center">
 
 
-I'm Front-End Developer and I'm quite good at:
+I'm Developer Full Stack and I'm quite good at:
   
 ![Java](https://img.shields.io/badge/Java8-E34F26?style=for-the-badge&logo=Java&logoColor=white)
 &nbsp;
