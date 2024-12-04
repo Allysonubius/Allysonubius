@@ -97,15 +97,24 @@
 <br>
 
 <div align="center">
-  <!-- Adicione botões clicáveis -->
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Adicione botões clicáveis com cores correspondentes -->
+  <a href="https://github.com/Allysonubius">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://linkedin.com/in/allyson-de-oliveira-6b3596164">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:allysontrabalho7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://developers.google.com/profile/u/allyson-de-oliveira?hl=pt-br">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
+  <a href="https://stackoverflow.com/users/14758220/allyson-de-oliveira-brand%c3%a3o">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/users/allysomoliveira-9811/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
   </a>
 </div>
 
