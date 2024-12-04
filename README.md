@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Developer+Allyson;Commit:🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%" alt="Typing Animation with Game Theme" />
+  <!-- Adicione um SVG animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=🌟+Bem-vindo!;💻+Desenvolvedor+Java+Full-Stack;🎨+Front-end+com+Angular+e+React;⚙️+Back-end+robusto+e+escalável;📡+Apaixonado+por+tecnologia" alt="Texto animado com boas-vindas" />
 </div>
 
 ---
@@ -92,11 +93,6 @@
 ---
 
 ## 🌟 Explore esta seção interativa!  
-
-<div align="center">
-  <!-- Adicione um SVG animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=🌟+Bem-vindo!;💻+Desenvolvedor+Java+Full-Stack;🎨+Front-end+com+Angular+e+React;⚙️+Back-end+robusto+e+escalável;📡+Apaixonado+por+tecnologia" alt="Texto animado com boas-vindas" />
-</div>
 
 <br>
 
