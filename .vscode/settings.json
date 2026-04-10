@@ -1,0 +1,5 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "snyk.advanced.organization": "b4a679e4-d86c-4ab8-8cba-60af1327bcee",
+    "snyk.advanced.autoSelectOrganization": true
+}
