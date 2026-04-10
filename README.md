@@ -6,7 +6,6 @@
 
 ---
 
-<h1 align="center">💻 Allyson de Oliveira</h1>
 <h3 align="center">🚀 Engenheiro de Software Sênior | Full Stack</h3>
 
 ---
