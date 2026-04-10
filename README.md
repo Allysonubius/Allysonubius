@@ -1,62 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Allyson+de+Oliveira;💻+Senior+Software+Engineer;🚀+Building+Scalable+Systems;⚙️+Java+%7C+React+%7C+Cloud" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Allyson+de+Oliveira;💻+Engenheiro+de+Software+Senior;🚀+Criando+Sistemas+Escaláveis;⚙️+Java+%7C+React+%7C+Cloud" />
+
 </div>
 
 ---
 
-# 💻 Allyson de Oliveira  
-### 🚀 Senior Software Engineer | Full Stack
+<h1 align="center">💻 Allyson de Oliveira</h1>
+<h3 align="center">🚀 Engenheiro de Software Sênior | Full Stack</h3>
 
 ---
-
-## 🧠 About Me
-
-Software Engineer with **6+ years of experience** building scalable and high-performance systems.
-
-I specialize in:
-
-- ⚙️ Backend development with Java & Spring Boot  
-- 🌐 Modern frontend with React & Angular  
-- ☁️ Cloud-native and microservices architecture  
-- 🚀 Performance optimization & system scalability  
-
-I have worked on enterprise-level systems, focusing on **robust architecture, performance and real business impact**.
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=allysonubius&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonubius&layout=compact&theme=tokyonight"/>
+![Visualizações](https://komarev.com/ghpvc/?username=allysonubius&color=blue)
+![Seguidores](https://img.shields.io/github/followers/allysonubius?style=social)
+![Stars](https://img.shields.io/github/stars/allysonubius?style=social)
 
 </div>
 
 ---
 
-## 🔥 Activity & Consistency
+## 🧠 Sobre mim
+
+Sou um Engenheiro de Software com **mais de 6 anos de experiência** no desenvolvimento de sistemas escaláveis, performáticos e orientados a valor de negócio.
+
+Atuo principalmente com:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allysonubius&theme=tokyonight" />
+⚙️ Backend com Java & Spring Boot  
+🌐 Frontend moderno com React & Angular  
+☁️ Arquitetura cloud-native e microsserviços  
+🚀 Otimização de performance e escalabilidade  
 
 </div>
 
+Tenho experiência em ambientes corporativos, participando de decisões de arquitetura e construção de soluções robustas com impacto real.
+
 ---
 
-## 📈 Contribution Graph
+## 📊 Análise do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allysonubius&theme=tokyo-night" />
+<img src="https://streak-stats.demolab.com?user=allysonubius&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=allysonubius&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-## 🧰 Tech Stack (Real Usage)
+## 📊 Insights
+
+<div align="center">
+
+💻 Repositórios focados em desenvolvimento Full Stack  
+🔥 Atuação consistente com commits frequentes  
+🧠 Forte foco em Java, APIs REST e arquitetura  
+⚙️ Experiência com React e Angular  
+🚀 Uso prático de Docker e microsserviços  
+
+</div>
+
+---
+
+## 🧰 Stack Tecnológica
 
 <div align="center">
 
@@ -70,34 +80,46 @@ I have worked on enterprise-level systems, focusing on **robust architecture, pe
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ### 🖥️ Allyson OS
-> Interactive operating system simulation in the browser
+<div align="center">
 
-- Desktop UI with windows system  
-- Built-in apps (About, Contact, Portfolio)  
-- Real-time news integration  
-- WhatsApp integration  
+Simulação de sistema operacional rodando no navegador
 
----
+</div>
 
-## 🏗️ Experience Impact
-
-- ✔️ Built scalable APIs used across multiple systems  
-- ✔️ Improved application performance in production environments  
-- ✔️ Worked with distributed systems and messaging (Kafka/RabbitMQ)  
-- ✔️ Participated in enterprise architecture decisions  
+- Interface desktop com janelas interativas  
+- Aplicações internas (Sobre, Contato, Portfólio)  
+- Integração com notícias em tempo real  
+- Integração direta com WhatsApp  
 
 ---
 
-## 🌎 Portfolio
+## 🏗️ Impacto Profissional
+
+<div align="center">
+
+✔️ Desenvolvimento de APIs escaláveis para ambientes corporativos  
+✔️ Melhoria de performance em aplicações em produção  
+✔️ Experiência com sistemas distribuídos (Kafka / RabbitMQ)  
+✔️ Participação em decisões de arquitetura  
+
+</div>
+
+---
+
+## 🌎 Portfólio
+
+<div align="center">
 
 👉 https://jumpy-gasosaurus-23e.notion.site/b370a23b47f148f48c3b7630058b0f99  
 
+</div>
+
 ---
 
-## 📲 Contact
+## 📲 Contato
 
 <div align="center">
 
@@ -117,12 +139,20 @@ I have worked on enterprise-level systems, focusing on **robust architecture, pe
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 Mentalidade de Engenharia
 
-> “I don’t just write code — I design solutions that scale, evolve and deliver value.”
+<div align="center">
+
+> “Eu não apenas escrevo código — eu projeto soluções que escalam, evoluem e geram valor.”
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Curiosidade
 
-I built a full OS simulation running inside the browser as a portfolio 😄
+<div align="center">
+
+Criei uma simulação completa de sistema operacional rodando no navegador como portfólio 😄
+
+</div>
