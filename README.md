@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Allyson+de+Oliveira;💻+Engenheiro+de+Software+Sênior;🚀+Sistemas+escaláveis+e+cloud-native;⚙️+Java+%7C+Spring+%7C+React+%7C+Angular" alt="Allyson de Oliveira — Engenheiro de Software Sênior" />
+<img src="https://readme-typing-svg.demolab.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B%20Ol%C3%A1%2C%20eu%20sou%20Allyson%20de%20Oliveira;%F0%9F%92%BB%20Engenheiro%20de%20Software%20S%C3%AAnior;%F0%9F%9A%80%20Sistemas%20escal%C3%A1veis%20e%20cloud-native;%E2%9A%99%EF%B8%8F%20Java%20%7C%20Spring%20%7C%20React%20%7C%20Angular" alt="Allyson de Oliveira — Engenheiro de Software Sênior" />
 
 <a href="https://linkedin.com/in/allyson-de-oliveira-6b3596164">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="https://jumpy-gasosaurus-23e.notion.site/b370a23b47f148f48c3b7630058b0f99">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfólio" />
 </a>
 
 <br/><br/>
